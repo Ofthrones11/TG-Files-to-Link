@@ -6,13 +6,13 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/Ofthrones11/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
       "value": ""
   },
-   "TG_API_HASH": {
+   "TG_API_HASH": {Ofthrones11
       "description": " Your Telegram API hash. Get this value from my.telegram.org!",
       "value": ""
   },
